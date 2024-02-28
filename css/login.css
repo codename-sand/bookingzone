@@ -1,0 +1,125 @@
+
+.loginform {
+	width:443px;
+	height: 443px;
+	float: left;
+	border-left: 1px solid #d2d2d2;
+	border-top: 1px solid #d2d2d2;
+	border-bottom: 1px solid #d2d2d2;
+}
+
+.account_title {
+	font-size: 22px;
+	font-weight: 600;
+	color: #15a7dd;
+	margin-left: 20px;
+	margin-top: 12px;
+}
+
+.width_all2 {
+	margin: 0 auto;
+	width : 1200px;
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
+
+.title_form {
+	width : 444px;
+	height: 60px;
+	border-bottom: 1px solid #d2d2d2;
+}
+
+.input_box {
+	width : 200px;
+	height: 42px;
+	border : 1px solid #b5b5b5;
+	color : #414141;
+}
+
+.input_box::-webkit-input-placeholder {
+	color : gray !important;
+	font-size: 14px;
+}
+
+.id {
+	margin-left: 68px;
+	margin-right: 68px;
+	margin-top: 40px;
+}
+
+.id_text{
+	color : #414141;
+	font-size: 18px;
+	font-weight: 400;
+	float: left;
+	margin-right: 56px;
+}
+
+.pw_text {
+	color : #414141;
+	font-size: 18px;
+	font-weight: 400;
+	float: left;
+	margin-right: 40px;
+}
+.pw {
+	clear: both;
+	margin-left: 68px;
+	margin-right: 68px;
+	margin-top: 20px;
+}
+
+.save_id {
+	clear: both;
+	margin-left: 170px;
+	margin-right: 68px;
+	margin-bottom: 30px;
+	margin-top: 10px;
+
+}
+
+.check {
+	float: left;
+	margin-right: 10px;
+	margin-top: 5px;
+	width : 15px;
+	height: 15px;
+}
+
+.login_button {
+	width : 310px;
+	height: 60px;
+	color : white;
+	background-color: #15a7dd;
+	border : none;
+	font-size: 20px;
+	font-weight: 500;
+	margin-left: 68px;
+	margin-right: 68px;
+	margin-top: 20px;
+	box-sizing: border-box;
+}
+
+.account {
+	float: left;
+	margin-left: 68px;
+	margin-right: 20px;
+	margin-top: 10px;
+}
+
+.icon-small{
+	float: left;
+	margin-right: 10px;
+	vertical-align: center;
+	padding-top: 5px;
+}
+
+.ac_text {
+	font-size: 16px;
+	color : #808080;
+	font-weight: 400;
+}
+
+.join {
+	margin-top: 10px;
+}

@@ -1,0 +1,121 @@
+.weekend_title {
+	font-size: 60px;
+	font-weight: 400;
+	color : white;
+	text-align: center;
+	margin-bottom: 40px;
+	padding-top: 120px;
+	text-shadow: 0px 0px 15px black;
+}
+
+.weekend_sub_text {
+	color : white;
+	font-size: 24px;
+	font-weight: 200;
+	text-shadow: 0px 0px 5px black;
+	margin-left: 50px;
+}
+
+.bottom {
+	margin-bottom: 120px;
+}
+
+.main_bg{
+	width: 100%;
+	height: 572px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	background: url(../image/booking/bg_img.png) no-repeat center center;
+}
+
+.weekend_table {
+	border-collapse: collapse;
+	margin-top: 120px;
+	border : 1px solid #e5e5e5;
+	text-align: center;
+	padding : 10px;
+}
+
+.weekend_table tr, .weekend_table td {
+	border : 1px solid #e5e5e5;
+} 
+
+.wk_table_title {
+	font-size: 18px;
+	color : #414141;
+	font-weight: 500;
+	border : 1px solid #e5e5e5;
+}
+
+
+.wk_select {
+	width : 216px;
+	height: 36px;
+	color:#808080 !important;
+	border : 2px solid #e5e5e5!important;
+	-webkit-appearance: none;
+	-moz-appearance: none; appearance: none;
+	background: url(../image/main/select_btn.png) no-repeat right center;
+}
+
+.wk_select02 {
+	width : 212px;
+	height: 32px;
+	border : 2px solid #e3e3e3;
+	color : #414141 !important;
+	-webkit-appearance: none;
+	-moz-appearance: none; appearance: none;
+	background: url(../image/main/select_btn.png) no-repeat right center;
+}
+
+.wk_select03 {
+	width : 930px;
+	height: 320px;
+	border : 2px solid #e3e3e3;
+	resize: none;
+	padding:10px;
+	box-sizing:border-box;
+}
+
+.right1 {
+	right:0 !important;
+	padding-left: 145px;
+	font-size: 18px;
+	color : #808080;
+	font-weight: 400;
+}
+
+.right2 {
+	right:0 !important;
+	padding-left: 130px;
+	font-size: 18px;
+	color : #808080;
+	font-weight: 400;
+}
+
+.wk_table_text {
+	font-size: 18px;
+	color : #808080;
+	font-weight: 400;
+}
+
+.war_right {
+	float:right;
+	font-size: 18px;
+	font-weight: 300;
+	color : #414141;
+}
+
+.success_button {
+	width : 300px;
+	height: 60px;
+	color : white;
+	background-color: #15a7dd;
+	text-align: center;
+	border:none;
+	font-size: 22px;
+	margin-top: 120px;
+	margin-bottom : 150px;
+	margin-left: 460px;
+}

@@ -1,0 +1,44 @@
+.bx-pager .bx-pager-item a {
+    font-size: 0;
+    display: block;
+    width: 13px;
+    height: 13px;
+    border-radius: 50%;
+    background: #adadad;
+    box-shadow: 0 0 1px #ccc;
+    float: left;
+    margin-right: 10px;
+    top : 0;
+}
+
+.bx-papaer-item .active {
+	background-color: red !important;
+}
+
+.slide01 {
+	width: 584px;
+	float: left;
+	position: relative;
+}
+
+.slide01 .bx-controls {
+	position: absolute;
+	width: 100%;
+	top: -20px;
+	left: 520px;
+}
+
+
+.slide02 {
+	width: 280px;
+	float: left;
+	position: relative;
+}
+
+.slide02 .bx-controls {
+	position: absolute;
+	width: 100%;
+	/*top: -20px;*/
+	bottom: -30px;
+	left: 110px;
+}

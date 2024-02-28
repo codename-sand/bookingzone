@@ -1,0 +1,156 @@
+.mg_top {
+	margin-top: 100px;
+}
+
+.line_1200_margin h2 {
+	margin-top: 80px;
+	margin-bottom: 30px;
+}	
+
+.booking_table, .booking_table tr, .booking_table th, .booking_table td{	
+	border-collapse: collapse;
+	text-align: center;
+}
+
+.booking_table .manager_info {
+	background-color: #15a7dd;
+	border : 1px solid #15a7dd;
+	height: 40px;
+}
+
+.float {
+	float: left;
+}
+
+.m_image {
+	width : 50px;
+	height: 50px;
+	border-radius: 50%;
+	border : 2px solid white;
+	margin-top: 5px;
+	margin-left: 450px;
+	margin-right: 30px;
+}
+
+.booking_table ul li .m_name {
+	font-size: 18px;
+	color : white; 
+	font-weight: 400;
+	margin : 16px 0px;	
+}
+
+.m_phone {
+	font-size: 18px;
+	color : white;
+	font-weight: 400;
+	margin: 16px 20px;
+}
+
+.border {
+	border-left: 1px solid white;
+	border-right: 1px solid white;
+}
+
+.booking_table .table_title{
+	font-size: 16px;
+	color : #58595b;
+	font-weight: 500;
+	border-top : 1px solid #e3e3e3;
+	border-bottom : 1px solid #e3e3e3;
+	background-color: #f1f1f1;
+}
+
+.booking_table .table_text {
+	font-size: 18px;
+	color : #3e3e3e;
+	font-weight: 300;
+	border-top : 1px solid #e3e3e3;
+	border-bottom : 1px solid #e3e3e3;
+}
+
+.booking_table .table_text2 {
+	font-size: 14px;
+	color : #3e3e3e;
+	font-weight: 300;
+	border-top : 1px solid #e3e3e3;
+	border-bottom : 1px solid #e3e3e3;
+}
+
+.booking_table .table_text3 {
+	font-size: 18px;
+	color : #3e3e3e;
+	font-weight: 300;
+	border-top : 1px solid #e3e3e3;
+	border-bottom : 1px solid #e3e3e3;
+}
+
+.booking_table .table_text2 .left {
+	text-align: left !important;
+	padding : 14px;
+}
+
+.booking_table .table_text3 .left2 {
+	text-align: left !important;
+	padding : 30px !important;
+}
+.clear {
+	clear: both;
+}
+
+.manager_img {
+	width : 120px;
+	height: 120px;
+	border : 2px solid #15a7dd;
+	float: left;
+	display: block;
+	position: relative;
+	border-radius: 50%;
+}
+
+.line_height {
+	margin-left: 160px;
+	padding-top: 30px;
+}
+.manager_info2{
+	font-size: 18px;
+	font-weight: 400;
+	color : #414141;
+	position: static;
+}
+
+.info_value {
+	margin-left: 40px;
+}
+
+.manager_info {
+	margin-bottom: 60px;
+	border-right: 1px solid #e3e3e3;
+	width : 450px;
+	float: left;
+}
+
+.talk {
+	margin-left: 40px;
+	margin-top: 40px;
+	float: left;
+	position: relative !important;
+	display: block;
+}
+
+.manager_talk {
+	position: static;
+	display: inline-block;
+	margin-top: 50px;
+	margin-left: 30px;
+	font-weight: 300;
+	font-size : 18px;
+	color : #58595b;
+}
+
+.booking_table .table_text3 .editor_img {
+	width : 75px;
+	height: 75px;
+	border:2px solid #e3e3e3;
+	text-align: left !important;
+	border-radius: 50%;
+}

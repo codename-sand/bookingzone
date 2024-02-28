@@ -1,0 +1,143 @@
+.ac_tabclick {
+	background-color: #15a7dd !important;
+	color : white !important;
+}
+
+.width_all2 {
+	margin: 0 auto;
+	width : 900px;
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
+
+.account {
+	width : 150px;
+	height: 50px;
+	text-align: center;
+	font-weight: 300;
+	font-size: 18px;
+	background-color: #efefef;
+	color : #808080;
+} 
+
+.account:hover {
+	background-color: #efefef;
+}
+
+.ac_tab {
+	width : 448px;
+	height: 450px;
+	border: 1px solid #d2d2d2;
+}
+
+.ac_title {
+	font-size: 22px;
+	font-weight: 500;
+	color : #15a7dd;
+	margin-left: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width:100%; 
+}
+
+.form_float1 {
+	margin-left: 68px;
+	margin-right: 68px;
+	margin-top : 100px;
+}
+
+.form_float2 {
+	margin-left: 68px;
+	margin-right: 68px;
+	margin-top : 20px;
+}
+
+.sub_form_title {
+	color : #535353;
+	font-size: 20px;
+	font-weight: 400;
+	float: left;	
+	margin-bottom: 15px;
+}
+
+.ac_input_style {
+	width:200px;
+	height: 44px;
+	margin-left: 14px;
+	border: 1px solid #d2d2d2; 
+	color : #414141;
+}
+
+.ac_input_style01 {
+	width:200px;
+	height: 44px;
+	margin-left: 52px;
+	border: 1px solid #d2d2d2; 
+	color : #414141;
+}
+
+.ac_input_style02 {
+	width:200px;
+	height: 44px;
+	margin-left: 47px;
+	border: 1px solid #d2d2d2; 
+	color : #414141;
+}
+
+.ac_input_style03 {
+	width:204px;
+	height: 44px;
+	margin-left: 34px;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	border: 1px solid #d2d2d2 !important;
+	color : gray;
+	background-color: rgba(0,0,0,0.1) !important;
+}
+
+.search {
+	width : 310px;
+	height: 60px;
+	color : white;
+	background-color: #15a7dd;
+	border : none;
+	font-size: 20px;
+	font-weight: 500;
+	margin-left: 68px;
+	margin-right: 68px;
+	margin-top: 20px;
+	box-sizing: border-box;
+}
+
+.f_content {
+	float: left;
+	/*background-color: red;*/
+	position: relative;
+
+}
+
+.warning {
+	color : #d64d55;
+	font-weight: 400;
+	font-size: 14px;
+	margin-top : 10px;
+}
+
+.s_content {
+	width : 448px;
+	height: 450px;
+	border-left: none;
+	border-bottom:1px solid #d2d2d2;
+	border-top : 1px solid #d2d2d2;
+	border-right : 1px solid #d2d2d2; 
+	position: relative;
+	margin-left : 448px;
+	margin-top: 50px;
+}
+
+.b {
+	position: absolute;
+}
+
+
+

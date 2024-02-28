@@ -1,0 +1,165 @@
+.width_all0 {
+	margin: 0 auto;
+	width : 1200px;
+	height: 30px;
+	padding-top: 100px;
+	padding-bottom: 30px;
+}
+
+.width_all2 {
+	margin: 0 auto;
+	width : 700px;
+	padding-top: 40px;
+	padding-bottom: 120px;
+}
+
+.war_h5_k {
+	font-size: 16px;
+	color : #414141;
+	font-weight: 400;
+	float: left;
+}
+
+.war_h5_r {
+	font-size: 16px;
+	color : #d64d55;
+	font-weight: 400;
+	float: left;
+}
+
+.input_join_content {
+	clear: both;
+	margin-top: 50px;
+}
+
+.input_join_text {
+	color : #414141;
+	font-size: 18px;
+	font-weight: 400;
+}
+
+.star {
+	margin-right: 10px;
+}
+.sub_join {
+	font-size: 16px;
+	color : #414141;
+	font-weight: 400;
+	margin-left: 241px;
+	margin-top: 5px;
+}
+
+.join {
+	margin-top: 40px;
+}
+
+.input_join01 {
+	width : 360px;
+	height: 40px;
+	margin-left: 170px;
+	border : 1px solid #b5b5b5;
+}
+
+.input_join02 {
+	width : 360px;
+	height: 40px;
+	margin-left: 154px;
+	border : 1px solid #b5b5b5;
+}
+
+.input_join03 {
+	width : 360px;
+	height: 40px;
+	margin-left: 120px;
+	border-top:none;
+	border-left: 1px solid #b5b5b5;;
+	border-right : 1px solid #b5b5b5;;
+	border-bottom : 1px solid #b5b5b5;;
+}
+
+.input_join04 {
+	width : 360px;
+	height: 40px;
+	margin-left: 136px;
+	border : 1px solid #b5b5b5;
+}
+
+.input_join05 {
+	width : 360px;
+	height: 40px;
+	margin-left: 185px;
+	border : 1px solid #b5b5b5;
+}
+
+.input_join06 {
+	width : 360px;
+	height: 40px;
+	margin-left: 170px;
+	border : 1px solid #b5b5b5;
+}
+
+.input_join07 {
+	width : 364px;
+	height: 40px;
+	margin-left: 43px;
+	border : 1px solid #b5b5b5;
+}
+
+.input_join08 {
+	width : 360px;
+	height: 40px;
+	margin-left: 243px;
+	margin-top: 20px;
+	border : 1px solid #b5b5b5;
+}
+
+.input_join09 {
+	width : 15px;
+	height: 15px;
+	margin-right: 5px;
+}
+
+.input_join_text02 {
+	color : #414141;
+	font-size: 18px;
+	font-weight: 400;
+	margin-left: 25px;
+}
+
+.radio {
+	margin-left: 135px;
+}
+
+.radio02 {
+	margin-left: 40px;
+}
+
+.radio03 {
+	margin-left: 150px;
+}
+
+.join_button01 {
+	width : 310px;
+	height: 60px;
+	text-align: center;
+	color : #15a7dd;
+	border : 1px solid #15a7dd;
+	background-color: white;
+	font-size: 20px;
+	font-weight: 500;
+	margin-left: 600px;
+	margin-right: 20px;
+	margin-top: 80px;
+	margin-bottom: 150px;
+}
+
+.join_button02 {
+	width : 310px;
+	height: 60px;
+	text-align: center;
+	color : white;
+	background-color: #15a7dd;
+	font-size: 20px;
+	font-weight: 500;
+	border : none;
+}
